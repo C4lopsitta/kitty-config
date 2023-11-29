@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Popup Kitty
+Comment=Kitty Terminal Emulator without Tiling
+Exec=kitty --title=Popup
+Icon=kitty
+Terminal=false
+Type=Application
+Categories=System;TerminalEmulator;
