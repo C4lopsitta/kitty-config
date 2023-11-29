@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Big Terminal
 Comment=Kitty Terminal Emulator but with 20pt font
-Exec=kitty --config /home/USERNAME/.config/kitty/kitty_presenter.conf
+Exec=kitty --config /home/c4lopsitta/.config/kitty/kitty_presenter.conf
 Icon=kitty
 Terminal=false
 Type=Application
